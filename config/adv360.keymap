@@ -20,6 +20,7 @@
             tapping-term-ms = <185>;
             quick-tap-ms = <150>;
             require-prior-idle-ms = <150>;
+            flavor = "balanced";
         };
 
         hrm_mouse: hrm_mouse {
